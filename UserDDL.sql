@@ -1,4 +1,4 @@
---
+-- DDL Exported using the DBMS_CLOUD_REPO package. 
 -- User "DEMO"
 --
 CREATE USER "DEMO" NO AUTHENTICATION  DEFAULT COLLATION "USING_NLS_COMP" 
